@@ -12,7 +12,7 @@ Here are some ideas to get you  started:
 - 📫 How to reach me: ...
 -->
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20YoonMin&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20janghjun&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
 
 <div align=center>
 <!--소개-->
@@ -66,9 +66,10 @@ Hi, I am trying to become a nice developer
 <!--깃허브
 <h3>Github :eyes: </h3>
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoon828&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon828&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/><br/> -->
-  
- 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janghjun&layout=compact)](https://github.com/janghjun/github-readme-stats)
+
+<br/><br/><br/>
+
 </div>
