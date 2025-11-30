@@ -25,41 +25,41 @@ Hi, I am trying to become a nice developer
  <!--기술스택-->
   ## Skill :four_leaf_clover:
 
+  <!--DATA-->
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+
   <!--프론트-->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
    <br/>
   <!--백-->
-   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-  <br/>
+   <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white"/>
+   <br/>
   <!--언어 및 툴 -->
-   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 <br/><br/>
   
  <!--공부중 -->
  
   ## Studying :pencil2: 
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
- <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
-  <!--백-->
-  <br/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
- <!--언어 및 툴 --> <br/>
+
+ <img src="https://img.shields.io/badge/akiflow-AF38F9?style=flat&logo=akiflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mlflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
 
  <br/>
  <br/>
   
  <!--알고리즘 -->
- <a href="https://github.com/yoon828/Algorithm" > 
+ <a href="https://github.com/janghjun/Algorithm" > 
  
  ## Problem Solving :muscle: 
  </a>
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yoon828990)](https://solved.ac/yoon828990)<br/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
 
 <br/><br/><br/>
   
