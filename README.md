@@ -58,7 +58,7 @@ Hi, I am trying to become a nice developer
  ## Problem Solving :muscle: 
  </a>
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yoon828990)](https://solved.ac/yoon828990)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=janghjun)](https://solved.ac/yyuyiy)<br/>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
 
 <br/><br/><br/>
